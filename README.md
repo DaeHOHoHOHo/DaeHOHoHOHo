@@ -4,7 +4,7 @@
 ****🕶️About ME!️****<br/><br/>
 **최대호 (Daeho Choi)**<br/>
 ***🏫  Seoul National Univ. of Science and Technology***<br/>
-****Computer Engineering 19****<br/><br/>
+****Computer Engineering 19.****<br/><br/>
 [![Build Status](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=cdh5298@naver.com)](https://travis-ci.org/joemccann/dillinger) [![Build Status](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=miraeho00@gmail.com)](https://travis-ci.org/joemccann/dillinger)  
 <br/>
 <br/>
