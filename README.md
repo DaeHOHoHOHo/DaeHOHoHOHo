@@ -1,7 +1,6 @@
 <div align = "center" style = "hr size = "0px"">
 
   
-****🕶️About ME!️****<br/><br/>
 **최대호 (Daeho Choi)**<br/>
 ***🏫  Seoul National Univ. of Science and Technology***<br/>
 ****Computer Engineering 19.****<br/><br/>
